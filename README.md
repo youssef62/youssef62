@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-I'm a Master's student in Computer Science at EPFL, focused on machine learning systems and AI infrastructure. I'm particularly interested in the engineering challenges behind large-scale AI — building systems that are fast, scalable, and efficient in practice.
+I'm a Master's student in Computer Science at EPFL, focused on machine learning systems and AI infrastructure.
 
 I previously worked at Oracle Labs, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
 

@@ -6,6 +6,32 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 
 ---
 
+## 🛠 Skills
+
+**Performance & Systems**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) 
+![CUDA](https://img.shields.io/badge/CUDA-7619E6?style=for-the-badge&logo=nvidia&logoColor=white) 
+![MPI](https://img.shields.io/badge/MPI-007D9C?style=for-the-badge&logo=gnu&logoColor=white)  
+
+**Data & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)  
+
+**Tools & Technologies**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Nsight Compute](https://img.shields.io/badge/Nsight_Compute-CC0000?style=for-the-badge&logo=nvidia&logoColor=white) 
+![nvprof](https://img.shields.io/badge/nvprof-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+
+---
+
 ## 🚀 Selected Projects
 
 ### ⚡ CUDA Matrix Multiplication Kernels (Feb 2026)

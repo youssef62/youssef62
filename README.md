@@ -38,7 +38,6 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 - Reached **~82% of cuBLAS performance**  
 - 🔗 [Code](https://github.com/youssef62/matmul-cuda)  
 
----
 
 ### 🥇 CUDA 1D Convolution — #1 LeetGPU (Jul 2025)
 - Ranked **#1 on LeetGPU**, 5.3× faster than baseline  
@@ -46,13 +45,11 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 - Profiled with Nsight Compute  
 - 🔗 [Code](https://youssef62.github.io/html/conv1d-cuda.html)  
 
----
 
 ### 🌊 Shallow Water Solver (MPI + CUDA) (Mar 2025)
 - Parallelized PDE solver with MPI + CUDA  
 - Achieved **20× (MPI)** and **76× (GPU)** speedups  
 
----
 
 ### ✍️ Handwriting Recognition (Dec 2024)
 - Built OCR system for chess scores (CNN-RNN, PyTorch)  

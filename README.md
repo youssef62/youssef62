@@ -32,9 +32,27 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 
 ## 🚀 Selected Projects
 
-| Project | Description | Date | Link |
-|---------|------------|------|------|
-| ⚡ CUDA Matrix Multiplication Kernels | Optimized GEMM kernels on NVIDIA T4, hierarchical tiling, 82% cuBLAS perf | Feb 2026 | [Code](https://github.com/youssef62/matmul-cuda) |
-| 🥇 CUDA 1D Convolution — #1 LeetGPU | #1 on LeetGPU, 5.3× speedup, shared/constant memory + register blocking | Jul 2025 | [Code](https://youssef62.github.io/html/conv1d-cuda.html) |
-| 🌊 Shallow Water Solver (MPI + CUDA) | Parallelized PDE solver, 20× MPI speedup, 76× GPU speedup | Mar 2025 | — |
-| ✍️ Handwriting Recognition | OCR for chess scores, CNN-RNN, WER 44%→29% | Dec 2024 | [Code](https://github.com/CS-433/ml-project-2-syc-group) |
+### ⚡ CUDA Matrix Multiplication Kernels (Feb 2026)
+- Built optimized GEMM kernels on NVIDIA T4  
+- Hierarchical tiling + vectorized memory access  
+- Reached **~82% of cuBLAS performance**  
+- 🔗 [Code](https://github.com/youssef62/matmul-cuda)  
+
+
+### 🥇 CUDA 1D Convolution — #1 LeetGPU (Jul 2025)
+- Ranked **#1 on LeetGPU**, 5.3× faster than baseline  
+- Used shared/constant memory + register blocking  
+- Profiled with Nsight Compute  
+- 🔗 [Code](https://youssef62.github.io/html/conv1d-cuda.html)  
+
+
+### 🌊 Shallow Water Solver (MPI + CUDA) (Mar 2025)
+- Parallelized PDE solver with MPI + CUDA  
+- Achieved **20× (MPI)** and **76× (GPU)** speedups  
+
+
+### ✍️ Handwriting Recognition (Dec 2024)
+- Built OCR system for chess scores (CNN-RNN, PyTorch)  
+- Reduced WER from **44% → 29%**  
+- 🔗 [Code](https://github.com/CS-433/ml-project-2-syc-group)  
+

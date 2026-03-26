@@ -2,7 +2,7 @@
 
 I'm a Master's student in Computer Science at EPFL, focused on machine learning systems and AI infrastructure. I'm particularly interested in the engineering challenges behind large-scale AI — building systems that are fast, scalable, and efficient in practice.
 
-I previously worked at Oracle Labs, where I contributed to the open-source projects Wayflow and Agent-Spec, working on distributed systems and ML infrastructure.
+I previously worked at Oracle Labs, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
 
 ---
 
@@ -12,7 +12,7 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 - Built optimized GEMM kernels on NVIDIA T4  
 - Hierarchical tiling + vectorized memory access  
 - Reached **~82% of cuBLAS performance**  
-- 🔗 Code  
+- 🔗 [Code](https://github.com/youssef62/matmul-cuda)  
 
 ---
 
@@ -20,7 +20,7 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 - Ranked **#1 on LeetGPU**, 5.3× faster than baseline  
 - Used shared/constant memory + register blocking  
 - Profiled with Nsight Compute  
-- 🔗 Code  
+- 🔗 [Code](https://youssef62.github.io/html/conv1d-cuda.html)  
 
 ---
 
@@ -33,4 +33,4 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 ### ✍️ Handwriting Recognition (Dec 2024)
 - Built OCR system for chess scores (CNN-RNN, PyTorch)  
 - Reduced WER from **44% → 29%**  
-- 🔗 Code  
+- 🔗 [Code](https://github.com/CS-433/ml-project-2-syc-group)  

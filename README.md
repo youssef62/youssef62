@@ -2,7 +2,7 @@
 
 I'm a Master's student in Computer Science at EPFL, focused on machine learning systems and AI infrastructure.
 
-I previously worked at Oracle Labs, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
+I previously worked at Oracle Labs Zurich, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
 
 
 ## 🛠 Skills

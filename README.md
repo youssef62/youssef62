@@ -4,7 +4,6 @@ I'm a Master's student in Computer Science at EPFL, focused on machine learning 
 
 I previously worked at Oracle Labs, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
 
----
 
 ## 🛠 Skills
 
@@ -30,7 +29,6 @@ I previously worked at Oracle Labs, where I contributed to the open-source proje
 ![Nsight Compute](https://img.shields.io/badge/Nsight_Compute-CC0000?style=for-the-badge&logo=nvidia&logoColor=white) 
 ![nvprof](https://img.shields.io/badge/nvprof-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 
----
 
 ## 🚀 Selected Projects
 

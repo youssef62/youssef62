@@ -6,9 +6,7 @@ I previously worked at Oracle Labs Zurich, where I contributed to the open-sourc
 
 
 🌐 Blog: https://youssefboughizane.blog
-
 💼 LinkedIn: www.linkedin.com/in/youssef-boughizane-086247163
-
 💻 GitHub: https://github.com/youssef62
 
 ## 🛠 Skills

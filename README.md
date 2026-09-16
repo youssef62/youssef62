@@ -2,8 +2,12 @@
 
 I'm a Master's student in Computer Science at EPFL, focused on machine learning systems and AI infrastructure.
 
-I previously worked at Oracle Labs Zurich, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec).
+I previously worked at Oracle Labs Zurich, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec). More recently, I worked on the [SwissAI Serving Platform](https://serving.swissai.svc.cscs.ch/) at the [EPFL AI Center](https://ai.epfl.ch/), focusing on reducing LLM serving cold-start times.
 
+
+🌐 Blog: https://youssefboughizane.blog
+💼 LinkedIn: www.linkedin.com/in/youssef-boughizane-086247163
+💻 GitHub: https://github.com/youssef62
 
 ## 🛠 Skills
 
@@ -32,6 +36,20 @@ I previously worked at Oracle Labs Zurich, where I contributed to the open-sourc
 
 ## 🚀 Selected Projects
 
+### ⚡ Fast LLM Weight Loading from Lustre Datastores (Sep 2026)
+- Reduced LLM weight-loading time from minutes to seconds on CSCS clusters
+- Built integrations with Servekit and SGLang for distributed model serving
+- Achieved up to **51× faster weight loading** and **11× faster cold starts**
+- 🔗 https://youssefboughizane.blog/fast-weight-loading.html
+
+
+### 🔄 Efficient RL Fine-Tuning with Multi-Tenancy (May 2026)
+- Designed a shared rollout architecture for concurrent RL training jobs
+- Integrated multi-LoRA serving with vLLM and verl
+- Improved training throughput by **23–56%**
+- 🔗 https://youssefboughizane.blog/efficient-rl-finetuning-with-multi-tenancy.html
+
+  
 ### ⚡ CUDA Matrix Multiplication Kernels (Feb 2026)
 - Built optimized GEMM kernels on NVIDIA T4  
 - Hierarchical tiling + vectorized memory access  
@@ -43,12 +61,7 @@ I previously worked at Oracle Labs Zurich, where I contributed to the open-sourc
 - Ranked **#1 on LeetGPU**, 5.3× faster than baseline  
 - Used shared/constant memory + register blocking  
 - Profiled with Nsight Compute  
-- 🔗 [Code](https://youssef62.github.io/html/conv1d-cuda.html)  
-
-
-### 🌊 Shallow Water Solver (MPI + CUDA) (Mar 2025)
-- Parallelized PDE solver with MPI + CUDA  
-- Achieved **20× (MPI)** and **76× (GPU)** speedups  
+- 🔗 [Code](https://youssefboughizane.blog/conv1d-cuda.html)  
 
 
 ### ✍️ Handwriting Recognition (Dec 2024)

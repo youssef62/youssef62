@@ -5,9 +5,9 @@ I'm a Master's student in Computer Science at EPFL, focused on machine learning 
 I previously worked at Oracle Labs Zurich, where I contributed to the open-source projects [Wayflow](https://github.com/oracle/wayflow) and [Agent-Spec](https://github.com/oracle/agent-spec). More recently, I worked on the [SwissAI Serving Platform](https://serving.swissai.svc.cscs.ch/) at the [EPFL AI Center](https://ai.epfl.ch/), focusing on reducing LLM serving cold-start times.
 
 
-🌐 Blog: https://youssefboughizane.blog
-💼 LinkedIn: www.linkedin.com/in/youssef-boughizane-086247163
-💻 GitHub: https://github.com/youssef62
+* [🌐 Blog](https://youssefboughizane.blog)
+* [💼 LinkedIn](www.linkedin.com/in/youssef-boughizane-086247163)
+* [💻 GitHub](https://github.com/youssef62)
 
 ## 🛠 Skills
 
